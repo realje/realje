@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Refal Aljehani</h1>
 <h3 align="center">Tech-savvy Full Stack Web Developer, proficient in fundamental frontend languages as well as backend and server side languages.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 💬 Ask me about **Java, Javascript, MySQL**
 
